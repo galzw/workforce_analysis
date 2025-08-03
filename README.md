@@ -60,9 +60,30 @@ These insights suggest structural and behavioral differences between genders in 
 
 ##  Reproducibility
 
-To run this analysis:
+To reproduce the analysis and results:
 
-```bash
+
+### 1. Clone the Repository
+
+
 git clone https://github.com/galzw/workforce_analysis.git
 cd workforce_analysis
-# Add installation steps here if using Python/R
+
+### 2. Set Up the Environment
+
+
+python -m venv venv
+source venv/bin/activate  # On Windows: venv\Scripts\activate
+
+# Install dependencies
+pip install numpy pandas matplotlib statsmodels
+
+### 3. Run the Notebook
+jupyter notebook workforce_analysis.ipynb
+
+### 4. Data Access
+The dataset was sourced from Israel’s Central Bureau of Statistics.
+ Download it from CBS Data Portal
+ Save it as data.csv in a new folder named data/
+
+```bash
