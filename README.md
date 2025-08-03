@@ -58,32 +58,20 @@ These insights suggest structural and behavioral differences between genders in 
 
 ---
 
-##  Reproducibility
+To reproduce the analysis and results, clone the repository by running  
+`git clone https://github.com/galzw/workforce_analysis.git`  
+and then navigate to the folder with  
+`cd workforce_analysis`.  
 
-To reproduce the analysis and results:
+Next, create and activate a Python virtual environment using  
+`python -m venv venv`  
+and  
+`source venv/bin/activate` (on Windows, use `venv\Scripts\activate`).  
 
+Install the necessary dependencies with  
+`pip install numpy pandas matplotlib statsmodels`.  
 
-### 1. Clone the Repository
+Launch the Jupyter notebook by running  
+`jupyter notebook workforce_analysis.ipynb`.  
 
-
-git clone https://github.com/galzw/workforce_analysis.git
-cd workforce_analysis
-
-### 2. Set Up the Environment
-
-
-python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
-
-# Install dependencies
-pip install numpy pandas matplotlib statsmodels
-
-### 3. Run the Notebook
-jupyter notebook workforce_analysis.ipynb
-
-### 4. Data Access
-The dataset was sourced from Israel’s Central Bureau of Statistics.
- Download it from CBS Data Portal
- Save it as data.csv in a new folder named data/
-
-```bash
+The dataset used in this analysis is sourced from Israel’s Central Bureau of Statistics; download it from the [CBS Data Portal](https://www.cbs.gov.il/en) and save the file as `data/data.csv` inside the project directory.
