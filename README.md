@@ -4,7 +4,7 @@
 
 This project analyzes labor market data from Israel's Central Bureau of Statistics, focusing on differences between men and women in self-employment, unemployment, and how COVID-19 affected those dynamics.
 
- [Original dataset](https://www.cbs.gov.il/he/Statistics/Pages/%D7%9E%D7%97%D7%95%D7%9C%D7%9C%D7%99%D7%9D/%D7%9E%D7%97%D7%95%D7%9C%D7%9C-%D7%A1%D7%93%D7%A8%D7%95%D7%AA.aspxn)
+ [Original data source](https://www.cbs.gov.il/he/Statistics/Pages/%D7%9E%D7%97%D7%95%D7%9C%D7%9C%D7%99%D7%9D/%D7%9E%D7%97%D7%95%D7%9C%D7%9C-%D7%A1%D7%93%D7%A8%D7%95%D7%AA.aspxn)
 
 ---
 
