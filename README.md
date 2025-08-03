@@ -56,5 +56,5 @@ This project analyzes labor market data from Israel's Central Bureau of Statisti
 
 These insights suggest structural and behavioral differences between genders in how they respond to labor market shocks.
 
----
+
 
