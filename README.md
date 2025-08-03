@@ -27,7 +27,7 @@ This project analyzes labor market data from Israel's Central Bureau of Statisti
 ###  Similarities and Differences in Behavior
 
 - After removing long-term trends and seasonality, the **correlation** between male and female self-employment behavior is only **0.02**, suggesting different decision-making factors.
-- The **standard deviation** of male self-employment is **nearly twice** that of female data — indicating more variability.
+- The **standard deviation** of male self-employment is **nearly twice** that of female data - indicating more variability.
 
 ###  COVID Impact on Unemployment & Self-Employment
 
@@ -37,13 +37,13 @@ This project analyzes labor market data from Israel's Central Bureau of Statisti
 | **Men**   | **-0.33**       | 0.01          |
 
 - **Women** showed a much **stronger negative correlation** between unemployment and self-employment after COVID.
-- **Men** showed the **opposite** — the correlation disappeared entirely.
+- **Men** showed the **opposite** - the correlation disappeared entirely.
 - This supports the hypothesis that **men and women respond differently** to labor market changes.
 
 ###  Unemployment & Salary Dynamics
 
 - During COVID, **average and median salaries increased**, especially for **men**, due to a shift in employment composition (fewer low-wage physical jobs).
-- This created a **positive correlation** between salary and unemployment — a known crisis phenomenon ([ADP Research, 2025](https://www.adpresearch.com/wp-content/uploads/2025/07/TaW_2025_Issue2-2025.pdf)).
+- This created a **positive correlation** between salary and unemployment - a known crisis phenomenon ([ADP Research, 2025](https://www.adpresearch.com/wp-content/uploads/2025/07/TaW_2025_Issue2-2025.pdf)).
 - The effect was **stronger for men**, possibly because low-wage men are more likely to work in physical jobs hit hardest by lockdowns.
 
 ---
