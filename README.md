@@ -24,6 +24,8 @@ This project analyzes labor market data from Israel's Central Bureau of Statisti
 - The percentage of self-employed **men** is nearly twice that of **women**.
 - Men's self-employment remained **stable** over time, while women showed a **clear upward trend**, especially until 2021.
 
+  ![Self Employment Trend](plots/plot1.png)
+
 ###  Similarities and Differences in Behavior
 
 - After removing long-term trends and seasonality, the **correlation** between male and female self-employment behavior is only **0.02**, suggesting different decision-making factors.
