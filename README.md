@@ -24,7 +24,9 @@ This project analyzes labor market data from Israel's Central Bureau of Statisti
 - The percentage of self-employed **men** is nearly twice that of **women**.
 - Men's self-employment remained **stable** over time, while women showed a **clear upward trend**, especially until 2021.
 
+ <p align="center">
   ![Self Employment Trend](plots/plot1.png)
+ </p>
 
 ###  Similarities and Differences in Behavior
 
@@ -48,6 +50,14 @@ This project analyzes labor market data from Israel's Central Bureau of Statisti
 - This created a **positive correlation** between salary and unemployment - a known crisis phenomenon ([ADP Research, 2025](https://www.adpresearch.com/wp-content/uploads/2025/07/TaW_2025_Issue2-2025.pdf)).
 - The effect was **stronger for men**, possibly because low-wage men are more likely to work in physical jobs hit hardest by lockdowns.
 
+
+ <p align="center">
+  ![Women salary vs employment](plots/plot5.png)
+ </p>
+
+ <p align="center">
+  ![Men salary vs employment](plots/plot6.png)
+ </p>
 ---
 
 ##  Conclusion
