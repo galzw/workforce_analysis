@@ -1,6 +1,5 @@
 # Workforce Analysis: Gender Differences in Self-Employment and Unemployment
 
-For a more thorough explanation, see the detailed report: [📄 Full PDF report](findings_summ.pdf)
 
 ##  Overview
 
@@ -18,6 +17,9 @@ This project analyzes labor market data from Israel's Central Bureau of Statisti
 - Did salary dynamics during COVID reveal structural labor differences between genders?
 
 ---
+
+For a more thorough explanation, see the detailed report: [📄 Full PDF report](findings_summ.pdf)
+For the full analysis code, see : [📄 Full code](full_analysis_j.ipynb)
 
 ##  Summary of Findings
 
