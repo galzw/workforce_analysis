@@ -19,6 +19,7 @@ This project analyzes labor market data from Israel's Central Bureau of Statisti
 ---
 
 For a more thorough explanation, see the detailed report: [📄 Full PDF report](findings_summ.pdf)
+
 For the full analysis code, see : [📄 Full code](full_analysis_j.ipynb)
 
 ##  Summary of Findings
